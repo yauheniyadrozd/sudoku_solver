@@ -7,7 +7,7 @@ A Python implementation of a Sudoku solver using backtracking algorithm.
 - Backtracking algorithm with validation checks
 - Clear board visualization
 
-Next Steps
+## Next Steps ?
 I'm planning to:
 
 Add constraint propagation techniques
@@ -27,4 +27,4 @@ Feature ideas
 
 Alternative algorithm implementations
 
-Contact me via [email(edrozd.by@gmail.com)/telegram(janedrozd)/etc.] if you'd like to collaborate!
+## Contact me via [email(edrozd.by@gmail.com)/telegram(janedrozd)] if you'd like to collaborate!
